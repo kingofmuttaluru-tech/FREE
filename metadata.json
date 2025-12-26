@@ -1,0 +1,7 @@
+{
+  "name": "FREE BALU Diagnostic Centre",
+  "description": "A comprehensive healthcare diagnostic platform featuring test booking, health packages, and patient report management, inspired by industry leaders like Apollo and Lal PathLabs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
